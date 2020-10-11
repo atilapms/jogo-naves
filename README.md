@@ -8,3 +8,6 @@
 <li>Animações CSS com Animate e Keyframes</li>
 <li>Compatibilidade CSS e HTML nos browsers</li>
 </ul>
+<p align="center">
+  Feito com 🖤 por <a href="https://www.linkedin.com/in/atilapms/">Atila Souza</a>
+</p>
