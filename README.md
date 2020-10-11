@@ -8,6 +8,13 @@
 <li>Animações CSS com Animate e Keyframes</li>
 <li>Compatibilidade CSS e HTML nos browsers</li>
 </ul>
+<h2>Screenshot</h2>
+<p align="center">
+   <img src="https://github.com/atilapms/jogo-naves/blob/master/imgs/screenshot.PNG" width="500"/>
+</p>
+
+<br>
+
 <p align="center">
   Feito com 🖤 por <a href="https://www.linkedin.com/in/atilapms/">Atila Souza</a>
 </p>
